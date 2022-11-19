@@ -1,0 +1,7 @@
+python-telegram-bot==13.11
+psycopg2
+boto3
+requests
+requests-oauthlib
+defusedxml
+python-dotenv
